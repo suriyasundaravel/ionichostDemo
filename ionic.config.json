@@ -1,0 +1,7 @@
+{
+  "name": "ionichostingdemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
